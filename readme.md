@@ -1,1 +1,2 @@
-Leetcode repo for Rohit
+Leetcode repo for Rohit.
+Solutions in Java.
